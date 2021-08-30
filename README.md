@@ -1,0 +1,3 @@
+Simple Python script to create a CSV file from a text file.
+I wrote this quickly to separate data from a command line tool that just appended values to a text file.
+Could probably be improved to use `with open`...
